@@ -1,3 +1,6 @@
 [submodule "api"]
 	path = api
 	url = https://github.com/lba-test-mehdi/lba-back-end
+[submodule "front-end"]
+	path = front-end
+	url = https://github.com/lba-test-mehdi/lba-front-end
